@@ -39,3 +39,21 @@ Operations Tested:
 ## Author
 
 Roshan Seerwani
+
+## Screenshots
+
+### Addition
+
+![Addition](addition.png.png)
+
+### Subtraction
+
+![Subtraction](subtraction.png.png)
+
+### Multiplication
+
+![Multiplication](multiplication.png.png)
+
+### Division
+
+![Division](division.png.png)
